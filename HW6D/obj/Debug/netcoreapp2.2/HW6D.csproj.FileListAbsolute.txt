@@ -1,0 +1,11 @@
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\bin\Debug\netcoreapp2.2\HW6D.deps.json
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\bin\Debug\netcoreapp2.2\HW6D.runtimeconfig.json
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\bin\Debug\netcoreapp2.2\HW6D.runtimeconfig.dev.json
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\bin\Debug\netcoreapp2.2\HW6D.dll
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\bin\Debug\netcoreapp2.2\HW6D.pdb
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\obj\Debug\netcoreapp2.2\HW6D.csprojAssemblyReference.cache
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\obj\Debug\netcoreapp2.2\HW6D.csproj.CoreCompileInputs.cache
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\obj\Debug\netcoreapp2.2\HW6D.AssemblyInfoInputs.cache
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\obj\Debug\netcoreapp2.2\HW6D.AssemblyInfo.cs
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\obj\Debug\netcoreapp2.2\HW6D.dll
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\HW6D\obj\Debug\netcoreapp2.2\HW6D.pdb

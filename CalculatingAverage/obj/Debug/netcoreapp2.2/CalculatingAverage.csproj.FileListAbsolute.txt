@@ -1,0 +1,11 @@
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\bin\Debug\netcoreapp2.2\CalculatingAverage.deps.json
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\bin\Debug\netcoreapp2.2\CalculatingAverage.runtimeconfig.json
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\bin\Debug\netcoreapp2.2\CalculatingAverage.runtimeconfig.dev.json
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\bin\Debug\netcoreapp2.2\CalculatingAverage.dll
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\bin\Debug\netcoreapp2.2\CalculatingAverage.pdb
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\obj\Debug\netcoreapp2.2\CalculatingAverage.csprojAssemblyReference.cache
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\obj\Debug\netcoreapp2.2\CalculatingAverage.csproj.CoreCompileInputs.cache
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\obj\Debug\netcoreapp2.2\CalculatingAverage.AssemblyInfoInputs.cache
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\obj\Debug\netcoreapp2.2\CalculatingAverage.AssemblyInfo.cs
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\obj\Debug\netcoreapp2.2\CalculatingAverage.dll
+C:\Users\brimt\OneDrive\desktop\MSSA\ITSA220\CodeFiles\CalculatingAverage\obj\Debug\netcoreapp2.2\CalculatingAverage.pdb

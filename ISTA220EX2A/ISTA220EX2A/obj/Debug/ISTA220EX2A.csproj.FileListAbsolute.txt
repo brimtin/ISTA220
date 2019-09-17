@@ -1,0 +1,7 @@
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\ISTA220EX2A\ISTA220EX2A\bin\Debug\ISTA220EX2A.exe.config
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\ISTA220EX2A\ISTA220EX2A\bin\Debug\ISTA220EX2A.exe
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\ISTA220EX2A\ISTA220EX2A\bin\Debug\ISTA220EX2A.pdb
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\ISTA220EX2A\ISTA220EX2A\obj\Debug\ISTA220EX2A.csprojAssemblyReference.cache
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\ISTA220EX2A\ISTA220EX2A\obj\Debug\ISTA220EX2A.csproj.CoreCompileInputs.cache
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\ISTA220EX2A\ISTA220EX2A\obj\Debug\ISTA220EX2A.exe
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\ISTA220EX2A\ISTA220EX2A\obj\Debug\ISTA220EX2A.pdb
